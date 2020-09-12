@@ -1,0 +1,25 @@
+body {
+    background-color: #bad7df;
+    padding-left: 10px;
+    }
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+}
+
+h1 {
+    color: #521262;
+}
+
+img {
+    padding-right: 10%;
+}
+
+td {
+    padding: 10px;
+}
+
